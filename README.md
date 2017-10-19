@@ -7,6 +7,11 @@ This is a simple template for clojure application with leiningen tool.
 $lein run
 ```
 
+#### test
+```bash
+$lein test
+```
+
 #### Reference
 1. https://clojure.org/
 2. https://leiningen.org/
