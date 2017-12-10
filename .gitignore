@@ -10,3 +10,8 @@ pom.xml.asc
 .hgignore
 .hg/
 .Ds_Store
+.idea
+.idea/codeStyles/
+.idea/dbnavigator.xml
+.idea/inspectionProfiles/
+resources/
